@@ -9,3 +9,5 @@ wget https://raw.githubusercontent.com/karimSATPRO/PLUGINS/main/cammanager-py2%2
 ## cronmanager_py2
 wget https://github.com/karimSATPRO/PLUGINS/raw/main/enigma2-plugin-extensions-crondmanager-py2_r1.3_all.ipk -O - | /bin/sh
 
+## feeds-finder
+wget https://raw.githubusercontent.com/karimSATPRO/PLUGINS/main/feeds-finder-3.1-py3.sh -O - | /bin/sh
