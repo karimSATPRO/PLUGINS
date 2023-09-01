@@ -3,7 +3,7 @@ echo "##############################################"
 echo "##############################################"
 echo "############ CronMANAGER-PY2 #################"
 
-wget -O /tmp/enigma2-softcams-oscam-all-images_11.725-emu-r798-arm+mips_all.ipk "https://github.com/karimSATPRO/PLUGINS/raw/main/enigma2-plugin-extensions-crondmanager-py2_r1.3_all.ipk"
+wget -O /tmp/enigma2-plugin-extensions-crondmanager-py2_r1.3_all.ipk "https://github.com/karimSATPRO/PLUGINS/raw/main/enigma2-plugin-extensions-crondmanager-py2_r1.3_all.ipk"
 
 opkg install --force-overwrite /tmp/*.ipk
 
