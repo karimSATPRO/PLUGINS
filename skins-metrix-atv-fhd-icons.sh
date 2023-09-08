@@ -2,7 +2,7 @@
 echo "##############################################"
 écho "#############################################" 
 echo "##############################################"
-echo "############ CronMANAGER-PY2 #################"
+echo "####### skins-metrix-atv-fhd-icons ##########"
 
 wget -O /tmp/enigma2-plugin-skins-metrix-atv-fhd-icons_7.3%2Bgit2598%2Be92bcf6-r1_cortexa15hf-neon-vfpv4.ipk "https://github.com/karimSATPRO/PLUGINS/raw/main/enigma2-plugin-skins-metrix-atv-fhd-icons_7.3%2Bgit2598%2Be92bcf6-r1_cortexa15hf-neon-vfpv4.ipk"
 
